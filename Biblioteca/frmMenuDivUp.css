@@ -1,0 +1,8 @@
+#divUp {
+    position: relative;
+    top: 35px;
+    left: -18px;
+    height: 80px;
+    width: 500px;
+    border:2.5px solid rgb(20, 20, 206);
+  }
